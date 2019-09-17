@@ -86,5 +86,5 @@ export default function App() {
 }
 ```
 
-# Screenshoot
+# Screenshot
 ![ss](https://github.com/thisWandiPratama/Konsep-Redux/blob/master/ss.jpeg)
